@@ -1,6 +1,8 @@
 ![Materhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=Nithin-vs&label=Profile%20Views&color=9&icon=0&pretty=true" />
+</a><br>
 
 <h1 align="center">Hi 👋, I'm Nithin</h1>
 
@@ -45,4 +47,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nithin-vs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Nithin-vs&icon=8&color=0)](https://visitcount.itsvg.in)
+
