@@ -22,8 +22,8 @@
 
 <p align="left">
 <a href="https://instagram.com/_.nithin_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nithin_vs" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nithin-vs-443b6a248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin vs" height="30" width="40" /></a>
-<a href="https://twitter.com/the_tech_spy_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_tech_spy_14" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nithin-ragesh-v-443b6a248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin vs" height="30" width="40" /></a>
+<a href="https://twitter.com/nithin_vs_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_tech_spy_14" height="30" width="40" /></a>
 </p><br>
 
 
