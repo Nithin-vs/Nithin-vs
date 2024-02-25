@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Nithin</h1>
 
-<h3 align="center"> Passionate in full stack</h3>
-
 
 
 ## 💫 About Me:
